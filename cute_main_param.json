@@ -1,0 +1,20 @@
+{
+    "ips": [],
+    "repo": "",
+    "first_param": "",
+    "second_param": "",
+    "first_ponder": "",
+    "second_ponder": "",
+    "opening_epd": "chess960.epd",
+    "resign": "-resign movecount=6 score=100",
+    "draw": "-draw movenumber=34 movecount=8 score=20",
+    "tc": "0/0:120+1.0",
+    "hash_size": "128",
+    "concurrency": "4",
+    "variant": "",
+    "tot_match": "8000",
+    "make_command_aarch64": "",
+    "make_command_x86_64": "",
+    "path_src": "",
+    "path_exe": ""
+}
